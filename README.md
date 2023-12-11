@@ -1,4 +1,4 @@
-# Postgres_Springboot
+# Postgres SpringBoot
 
 # Resources
 ````
